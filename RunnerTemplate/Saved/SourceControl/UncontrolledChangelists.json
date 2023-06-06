@@ -7,10 +7,7 @@
 			"files": [
 				"C:/Users/anfan/Documents/GitHub/Grupo2Jam/RunnerTemplate/Content/MainMap.umap",
 				"C:/Users/anfan/Documents/GitHub/Grupo2Jam/RunnerTemplate/Content/BP_GameMode.uasset",
-				"C:/Users/anfan/Documents/GitHub/Grupo2Jam/RunnerTemplate/Content/BP_Player.uasset",
 				"C:/Users/anfan/Documents/GitHub/Grupo2Jam/RunnerTemplate/Content/Maps/MainMap.umap",
-				"C:/Users/anfan/Documents/GitHub/Grupo2Jam/RunnerTemplate/Content/BP_MainCharacter.uasset",
-				"C:/Users/anfan/Documents/GitHub/Grupo2Jam/RunnerTemplate/Content/BP_Obstacle.uasset",
 				"C:/Users/anfan/Documents/GitHub/Grupo2Jam/RunnerTemplate/Content/BlueprintClass/BP_GameMode.uasset",
 				"C:/Users/anfan/Documents/GitHub/Grupo2Jam/RunnerTemplate/Content/BlueprintClass/BP_MainCharacter.uasset",
 				"C:/Users/anfan/Documents/GitHub/Grupo2Jam/RunnerTemplate/Content/BlueprintClass/BP_Obstacle.uasset",
@@ -22,6 +19,10 @@
 				"C:/Users/anfan/Documents/GitHub/Grupo2Jam/RunnerTemplate/Content/BlueprintClass/BP_Procedural.uasset",
 				"C:/Users/anfan/Documents/GitHub/Grupo2Jam/RunnerTemplate/Content/StarterContent/Materials/M_Basic_Floor.uasset",
 				"C:/Users/anfan/Documents/GitHub/Grupo2Jam/RunnerTemplate/Content/StarterContent/Props/Materials/M_Rock.uasset",
+				"C:/Users/anfan/Documents/GitHub/Grupo2Jam/RunnerTemplate/Content/ObstacleMovement.uasset",
+				"C:/Users/anfan/Documents/GitHub/Grupo2Jam/RunnerTemplate/Content/BP_Player.uasset",
+				"C:/Users/anfan/Documents/GitHub/Grupo2Jam/RunnerTemplate/Content/BP_MainCharacter.uasset",
+				"C:/Users/anfan/Documents/GitHub/Grupo2Jam/RunnerTemplate/Content/BP_Obstacle.uasset",
 				"E:/Luciano/Documents/Unreal Projects/RunnerTemplate/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
 				"E:/Luciano/Documents/Unreal Projects/RunnerTemplate/Content/BP_Player.uasset",
 				"E:/Luciano/Documents/Unreal Projects/RunnerTemplate/Content/MainMap.umap"
